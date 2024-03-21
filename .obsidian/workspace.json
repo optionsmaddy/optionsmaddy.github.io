@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config/_default/menu.toml",
+                "file": "config/_default/config.toml",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config/_default/menu.toml",
+                "file": "config/_default/config.toml",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config/_default/menu.toml",
+                "file": "config/_default/config.toml",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config/_default/menu.toml"
+                "file": "config/_default/config.toml"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "70f66ba78cd72b26",
   "lastOpenFiles": [
+    "config/_default/menu.toml",
     "assets/icons/brand-youtube.svg",
     "assets/icons/mail-check.svg",
     "assets/icons",
@@ -168,7 +169,6 @@
     "assets/img/avatar0.png",
     "assets/img/avatar0.jpg",
     "config/_default/module.toml",
-    "config/_default/menu.toml",
     "config/_default/markup.toml"
   ]
 }
