@@ -37,9 +37,9 @@ disableComments: false
 ![](https://i.imgur.com/3PoISOK.png)
 
 
-{{% notice warning %}}
+{{< quote author="OptionsMaddy" source="Today's Trade" url="https://www.optionsmaddy.github.io">}}
 - Tomorrow big gap down will be fatal.
 - Big gap down also give small loss, but I am not afraid of gap down.
 - Gap up can be very frustrating.
-{{% /notice %}}
+{{< /quote >}}
 

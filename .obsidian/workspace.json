@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "content/post/old_posts/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "content/post/old_posts/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "content/post/old_posts/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config/_default/params.toml"
+                "file": "content/post/old_posts/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md"
               }
             }
           },
@@ -159,12 +159,13 @@
   },
   "active": "f37a1a44bc44669b",
   "lastOpenFiles": [
-    "content/post/old_posts/2023-06-13 Risk-averse Tuesday MTM Profit +16,000.md",
-    "content/post/old_posts/2023-06-15 Made Money in the Morning, Gave it away in the evening MTM Profit +3,590.md",
     "content/post/old_posts/2023-06-16 Very Stressful Intraday MTM Loss -837.md",
-    "content/post/old_posts/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
-    "content/post/old_posts/2023-06-20 Good Day Super Volatile Call Ladder MTM Profit +3,370.md",
     "content/post/old_posts/2023-06-21 Excellent Intraday Captured 25pts MTM Profit 8,263.md",
+    "content/post/old_posts/2023-06-15 Made Money in the Morning, Gave it away in the evening MTM Profit +3,590.md",
+    "content/post/old_posts/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
+    "content/post/old_posts/2023-06-13 Risk-averse Tuesday MTM Profit +16,000.md",
+    "config/_default/params.toml",
+    "content/post/old_posts/2023-06-20 Good Day Super Volatile Call Ladder MTM Profit +3,370.md",
     "content/post/old_posts/2023-06-22 Excellent Intraday on a Wild Expiry Profit +10,583.md",
     "content/post/old_posts/2023-06-23 Closed Monthly Short Took July Straddle MTM Profit +1,810.md",
     "content/post/old_posts/2023-06-26 Sideways market MTM Profit +3821.md",
@@ -187,7 +188,6 @@
     "resources/_gen/images/post/shortcodes/cover_huec3c3e34981507583e214021ad1b9a4b_12942_800x0_resize_q75_box.jpg",
     "resources/_gen/images/post/hello-world/cover_hud7e36f7e20e71be184458283bdae4646_55974_800x0_resize_q75_box.jpg",
     "resources/_gen/images/post/shortcodes",
-    "resources/_gen/images/post/hello-world",
     "resources/_gen/images/avatar_huda2458f72ce188392d75c5d51cd8e24e_373_300x0_resize_box_3.png"
   ]
 }

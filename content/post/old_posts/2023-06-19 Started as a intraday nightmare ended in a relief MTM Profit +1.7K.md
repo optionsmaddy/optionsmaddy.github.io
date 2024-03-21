@@ -50,10 +50,10 @@ disableComments: false
 
 ## Positional Trade
 
-{{% notice update %}}
+{{< quote author="OptionsMaddy" source="Today's Trade" url="https://www.optionsmaddy.github.io">}}
 - Closed my Iron condor position at 1K Profit ( Realized Yesterday ).
 - Took a new straddle position as I think markets could rally.
-{{% /notice %}}
+{{< /quote >}}
 
 ![](https://i.imgur.com/BPOVHv2.png)
 
@@ -67,7 +67,7 @@ disableComments: false
 ![](https://i.imgur.com/kIGWqhu.png)
 
 
-{{% notice info %}}
+{{< quote author="OptionsMaddy" source="Today's Trade" url="https://www.optionsmaddy.github.io">}}
 - No hedges in the positional straddle.
 - Tomorrow plan is to take full hedge & take double position with the margin benefit.
-{{% /notice %}}
+{{< /quote >}}

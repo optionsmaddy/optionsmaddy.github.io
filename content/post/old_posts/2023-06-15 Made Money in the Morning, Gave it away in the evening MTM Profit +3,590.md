@@ -26,10 +26,10 @@ disableComments: false
 - Immediately after executing order it slumped towards **₹23**.
 - A potential 4.5K Loss was evaded.
 
-{{% notice info %}}
+{{< quote author="OptionsMaddy" source="Today's Trade" url="https://www.optionsmaddy.github.io">}}
 - Intraday Profit should be realized ASAP.
 - This especially applies to overnight buy positions.
-{{% /notice %}}
+{{< /quote >}}
 
 ![](https://i.imgur.com/ayUxHqO.png)
 
@@ -48,11 +48,11 @@ disableComments: false
 
 ![](https://i.imgur.com/6aBP7YW.png)
 
-{{% notice warning %}}
+{{< quote author="OptionsMaddy" source="Today's Trade" url="https://www.optionsmaddy.github.io">}}
 ##### Note to Self
 - PUT SL.
 - Only do trending intraday.
-{{% /notice %}}
+{{< /quote >}}
 
 ### Pay Off Diagram 🙂
 

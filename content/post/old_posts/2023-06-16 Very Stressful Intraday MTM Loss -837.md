@@ -30,9 +30,9 @@ disableComments: false
 
 ![](https://i.imgur.com/wn7rVIM.png)
 
-{{% notice update %}}
+{{< quote author="OptionsMaddy" source="Today's Trade" url="https://www.optionsmaddy.github.io">}}
 - Sold one naked position in profit.
 - Thought it was very high to buy the loss making position, hence bought hedge for the naked position.
-{{% /notice %}}
+{{< /quote >}}
 
 
