@@ -1,4 +1,5 @@
 ---
+image: cover.jpg
 author: maddy
 date: 2024-02-03T22:32:49+05:30
 lastmod: 2024-02-03T22:36:10+05:30
@@ -11,7 +12,6 @@ categories:
   - 💸P&L
 draft: false
 disableComments: false
-image: cover.jpg
 ---
 # Nifty Volatility
 
