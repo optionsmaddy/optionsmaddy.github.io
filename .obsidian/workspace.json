@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "41096a2a3413969f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fed672a4207ab18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f66ba78cd72b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "config/_default/params.toml",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9256f3666393e82a",
+    "type": "split",
+    "children": [
+      {
+        "id": "548753f4cf10e3de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e9ea6e131df5b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f61c3e65b3b3a0d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "748a8d6bfd6531d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2c3ab32669782b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "e39246960143d0e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf662ab741425857",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "config/_default/params.toml",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dba0de1a6e93016",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "config/_default/params.toml",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd93f8a77037137f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfb3c5f9c8e57591",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "config/_default/params.toml"
+              }
+            }
+          },
+          {
+            "id": "4f110f682485a488",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "gemini-assistant:New Gemini chat": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "81e9ea6e131df5b1",
+  "lastOpenFiles": [
+    "assets/img/avatar.jpg",
+    "assets/img/avatar0.png",
+    "assets/img/avatar0.jpg",
+    "config/_default/module.toml",
+    "config/_default/menu.toml",
+    "config/_default/markup.toml",
+    "config/_default/config.toml"
+  ]
+}
