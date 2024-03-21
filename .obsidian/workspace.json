@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a764ca82ac3d03d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config/_default/params.toml"
+                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md"
               }
             }
           },
@@ -157,9 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a0913329ac8be62",
+  "active": "a764ca82ac3d03d4",
   "lastOpenFiles": [
     "content/post/hello-world/index.md",
+    "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
+    "config/_default/params.toml",
     "content/post/hello-world/covers.jpg",
     "content/post/hello-world/cover.jpg",
     "config/_default/permalinks.toml",
@@ -169,8 +184,6 @@
     "config/_default/menu.toml",
     "config/_default/module.toml",
     "config/_default/_languages.toml",
-    "config/_default/params.toml",
-    "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
     "assets/img/savatar4.jpg",
     "assets/img/savatar3.jpg",
     "assets/img/savatar2.jpg",
