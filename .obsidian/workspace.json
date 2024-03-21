@@ -30,8 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c893f9af11c67924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config/_default/params.toml"
+                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md"
               }
             }
           },
@@ -169,8 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a0913329ac8be62",
+  "active": "c893f9af11c67924",
   "lastOpenFiles": [
+    "config/_default/params.toml",
+    "content/post/hello-world/index.md",
     "config/_default/config.toml",
     "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
     "assets/img/savatar4.jpg",
@@ -184,7 +199,6 @@
     "assets/img/avatar.jpg",
     "resources/_gen/images/post/image-gallery/2_hubce42636ecacc1a380b462f3110efcec_37455_1024x0_resize_q75_box.jpg",
     "resources/_gen/images/post/image-gallery",
-    "content/post/hello-world/index.md",
     "content/post/old_posts/2023-04 Month End April Profit and Loss.md",
     "content/post/old_posts/4-things-to-check-before-option-selling.md",
     "content/post/image-gallery/index.md",
@@ -209,7 +223,6 @@
     "content/unpublished/mds-options-trading-checklist.md",
     "content/unpublished/mds-options-strategy-2023.md",
     "content/unpublished",
-    "config/_default/params.toml",
     "content/post/old_posts",
     "content/post/New folder",
     "config/_default/module.toml",
