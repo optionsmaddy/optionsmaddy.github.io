@@ -3,5 +3,6 @@
   "cssTheme": "Border",
   "interfaceFontFamily": "Atkinson Hyperlegible",
   "textFontFamily": "Readex Pro",
-  "monospaceFontFamily": "MonoLisa"
+  "monospaceFontFamily": "MonoLisa",
+  "theme": "moonstone"
 }
