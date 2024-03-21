@@ -12,6 +12,7 @@ categories:
   - 💸P&L
 draft: false
 disableComments: false
+image: cover.jpg
 ---
 # Nifty Volatility
 
