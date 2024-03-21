@@ -19,7 +19,7 @@ subtitle = "Trading Risk via Options Contracts with Consistency, Patience & Disc
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/savatar3.jpg"
+src = "img/avatar2-small.jpg"
 
 [article]
 math = false

@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "574df92d6f5d27db",
+            "id": "7712001d086ed93a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/+5653 Profit 21-March-2024/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/+5653 Profit 21-March-2024/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/+5653 Profit 21-March-2024/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/+5653 Profit 21-March-2024/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,24 +147,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "574df92d6f5d27db",
+  "active": "7712001d086ed93a",
   "lastOpenFiles": [
-    "content/post/+5653 Profit 21-March-2024/cover.jpg",
+    "static/covers/cover_trade.png",
+    "static/covers/cover_tech.jpg",
+    "static/covers/cover_wave.jpg",
+    "static/covers/cover_vr.jpg",
+    "static/covers/cover.jpg",
+    "static/covers/cover_white.jpg",
+    "static/covers/cover_surreal11.jpg",
+    "static/covers/cover_surreal07.jpg",
+    "static/covers/cover_surreal02.jpg",
+    "static/covers/cover_surreal01.jpg",
+    "static/covers/cover_surreal00.jpg",
+    "config/_default/params.toml",
     "content/post/+5653 Profit 21-March-2024/index.md",
-    "static/favicon3.png",
     "content/post/+5653 Profit 21-March-2024",
-    "static/favicon6.png",
-    "static/favicon5.png",
-    "static/favicon4.png",
-    "static/favicon2.png",
-    "static/favicon1.png",
-    "static/favicon.png",
     "README.md",
     "content/page/search/index.md",
-    "config/_default/params.toml",
-    "savatar_1.jpg",
     "LICENSE",
-    "assets/img/savatar.jpg",
     "content/unpublished/mds-options-trading-checklist.md",
     "content/post/shortcodes/index.md",
     "content/post/image-gallery/index.md",
