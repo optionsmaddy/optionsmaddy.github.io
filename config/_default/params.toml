@@ -19,7 +19,7 @@ subtitle = "⚖️ Trading Risk via Options Contracts. 🤹 Motto : Consistency,
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/avatar2.jpg"
 
 [article]
 math = false
