@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "config/_default/menu.toml",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "config/_default/menu.toml",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config/_default/params.toml",
+                "file": "config/_default/menu.toml",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config/_default/params.toml"
+                "file": "config/_default/menu.toml"
               }
             }
           },
@@ -157,14 +157,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81e9ea6e131df5b1",
+  "active": "70f66ba78cd72b26",
   "lastOpenFiles": [
+    "assets/icons/brand-youtube.svg",
+    "assets/icons/mail-check.svg",
+    "assets/icons",
+    "config/_default/config.toml",
+    "config/_default/params.toml",
     "assets/img/avatar.jpg",
     "assets/img/avatar0.png",
     "assets/img/avatar0.jpg",
     "config/_default/module.toml",
     "config/_default/menu.toml",
-    "config/_default/markup.toml",
-    "config/_default/config.toml"
+    "config/_default/markup.toml"
   ]
 }
