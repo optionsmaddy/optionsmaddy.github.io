@@ -15,36 +15,11 @@
               "state": {
                 "file": "config/_default/params.toml",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e0d85be6b4a7cf7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/hello-world/index.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c893f9af11c67924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
+                "file": "config/_default/params.toml",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
+                "file": "config/_default/params.toml",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md"
+                "file": "config/_default/params.toml"
               }
             }
           },
@@ -182,11 +157,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c893f9af11c67924",
+  "active": "6a0913329ac8be62",
   "lastOpenFiles": [
-    "config/_default/params.toml",
     "content/post/hello-world/index.md",
+    "content/post/hello-world/covers.jpg",
+    "content/post/hello-world/cover.jpg",
+    "config/_default/permalinks.toml",
+    "config/_default/related.toml",
     "config/_default/config.toml",
+    "config/_default/markup.toml",
+    "config/_default/menu.toml",
+    "config/_default/module.toml",
+    "config/_default/_languages.toml",
+    "config/_default/params.toml",
     "content/post/old_posts/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
     "assets/img/savatar4.jpg",
     "assets/img/savatar3.jpg",
@@ -196,8 +179,6 @@
     "assets/img/_9f72fa0f-6b3d-4dbf-b448-6db653e564b3.jpg",
     "assets/img/_3b3c41d4-85b4-471d-8822-c821a88e4d4d.jpg",
     "assets/img/_801232d4-45be-46bf-ae47-44139a4c59e2.jpg",
-    "assets/img/avatar.jpg",
-    "resources/_gen/images/post/image-gallery/2_hubce42636ecacc1a380b462f3110efcec_37455_1024x0_resize_q75_box.jpg",
     "resources/_gen/images/post/image-gallery",
     "content/post/old_posts/2023-04 Month End April Profit and Loss.md",
     "content/post/old_posts/4-things-to-check-before-option-selling.md",
@@ -222,12 +203,6 @@
     "content/about.md",
     "content/unpublished/mds-options-trading-checklist.md",
     "content/unpublished/mds-options-strategy-2023.md",
-    "content/unpublished",
-    "content/post/old_posts",
-    "content/post/New folder",
-    "config/_default/module.toml",
-    "config/_default/menu.toml",
-    "config/_default/markup.toml",
-    "config/_default/_languages.toml"
+    "content/unpublished"
   ]
 }
