@@ -5,10 +5,10 @@ lastmod: 2023-04-15T11:35:59+05:30
 title: Zero Sum Game
 description: 
 tags:
-- Youtube📺
-- 🧔PRSundar 
-categories: 
-- 🤹Options-Trading
+  - Youtube📺
+  - 🧔PRSundar
+categories:
+  - 🤹Options-Trading
 draft: false
 disableComments: false
 ---
