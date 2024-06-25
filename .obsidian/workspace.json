@@ -151,12 +151,11 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "gemini-assistant:New Gemini chat": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "81e9ea6e131df5b1",
+  "active": "7712001d086ed93a",
   "lastOpenFiles": [
     "content/unpublished/mds-options-trading-checklist.md",
     "content/post/old_posts/best-time-for-options.md",
