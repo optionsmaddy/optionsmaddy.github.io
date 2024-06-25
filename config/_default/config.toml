@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 # baseurl = "https://www.optionsmaddy.github.io"
 
-baseurl = "optionsmaddy.github.io"
+baseurl = "www.optionsmaddy.github.io"
 languageCode = "en-us"
 paginate = 5
 title = "OptionsMaddy"
