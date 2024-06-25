@@ -157,6 +157,8 @@
   },
   "active": "7712001d086ed93a",
   "lastOpenFiles": [
+    "nojekyll.md",
+    "config/_default/config.toml",
     "content/unpublished/mds-options-trading-checklist.md",
     "content/post/old_posts/best-time-for-options.md",
     "content/post/old_posts/2023-06-23 Closed Monthly Short Took July Straddle MTM Profit +1,810.md",
@@ -188,7 +190,6 @@
     "content/post/hello-world/index.md",
     "config/_default/permalinks.toml",
     "config/_default/related.toml",
-    "config/_default/config.toml",
     "config/_default/markup.toml",
     "config/_default/menu.toml",
     "config/_default/module.toml",
@@ -200,8 +201,6 @@
     "content/post/old_posts/2023-04-20 Expiry Profit +16,800.md",
     "content/post/old_posts/2023-04-18 FinNifty Operator Manupulation Profit MTM +11,800.md",
     "content/post/old_posts/2023-05-09 -2500 Loss on Finnifty SL Hunting MTM +5000.md",
-    "content/post/old_posts/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
-    "content/post/old_posts/2023-05-04 Recklessness killed my position today Profit +2127.md",
-    "content/post/old_posts/2023-05-02 Big MTM Loss on the Massive Up Move Loss -14,982.md"
+    "content/post/old_posts/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md"
   ]
 }
