@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Option-Strategies🛠️ on OptionsMaddy</title><link>https://www.optionsmaddy.github.io/tags/option-strategies%EF%B8%8F/</link><description>Recent content in Option-Strategies🛠️ on OptionsMaddy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 21:58:02 +0530</lastBuildDate><atom:link href="https://www.optionsmaddy.github.io/tags/option-strategies%EF%B8%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>Bull Put Spread vs Bull Call Spread (Bullish)</title><link>https://www.optionsmaddy.github.io/p/bull-put-spread-vs-bull-call-spread-bullish/</link><pubDate>Sat, 18 Mar 2023 21:58:02 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/bull-put-spread-vs-bull-call-spread-bullish/</guid><description>&lt;h1 id="bull-put-spread-vs-bull-call-spread-bullish">Bull Put Spread vs Bull Call Spread (Bullish)
+&lt;/h1>&lt;h2 id="similarities">Similarities
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/ZqlZlm5.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="differences">Differences
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/mgt7doO.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="when-to-trade">When to Trade
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/QFYoJMv.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/iwpLlL9.png"
+loading="lazy"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;h2 id="call-condor--iron-condor">CALL CONDOR &amp;amp; IRON CONDOR
+&lt;/h2>&lt;ul>
+&lt;li>CALL CONDOR : &lt;strong>Bull Call Spread&lt;/strong> + &lt;strong>Bear Put Spread&lt;/strong>&lt;/li>
+&lt;li>IRON CONDOR : &lt;strong>Bear Call Spread&lt;/strong> + &lt;strong>Bull Put Spread&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/p>&lt;span class="cite">&lt;span>― &lt;/span>&lt;span>OptionsMaddy&lt;/span>&lt;cite>&lt;/cite>&lt;/span>&lt;/blockquote></description></item><item><title>Call Condors vs Put Condors vs Iron Condors</title><link>https://www.optionsmaddy.github.io/p/call-condors-vs-put-condors-vs-iron-condors/</link><pubDate>Wed, 22 Feb 2023 08:55:42 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/call-condors-vs-put-condors-vs-iron-condors/</guid><description>&lt;h2 id="comparison-between-call-condors-vs-put-condors-vs-iron-condors">Comparison between “Call Condors” vs “Put Condors” vs “Iron Condors”
+&lt;/h2>&lt;h3 id="call-condor">Call Condor
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/CWwxKHf.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Watch under Net strategy block in the screenshot “Net Premium Pay” is given in both call condor &amp;amp; put condor, whereas in the Iron condor “Net Premium Get” is written.&lt;/strong>&lt;/em>&lt;/p>
+&lt;h4 id="tamil-adjustment-trader-on-call-condor">Tamil Adjustment Trader on Call Condor
+&lt;/h4>&lt;ul>
+&lt;li>If you are option buyer instead of Naked selling, you should only sell Debit Spread.&lt;/li>
+&lt;li>Option seller prefer credit spreads.&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;p style="text-align:center"> &lt;iframe width="675" height="225" src="https://www.youtube.com/embed/cjtPcwtADac?disablekb=0&amp;enablejsapi=1&amp;modestbranding=1&amp;start=200" title="YouTube video player" frameborder="0" color="white" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe> &lt;/p>
+&lt;h3 id="iron-condor">Iron Condor
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/Slw366f.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="put-condor">Put Condor
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/uQf5Dj1.png"
+loading="lazy"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>[!INFO]+ ### ANALYSIS of Call Condor&lt;/p>
+&lt;ul>
+&lt;li>Seems similar.&lt;/li>
+&lt;li>Call Condor seems to be slightly good for a falling market.&lt;/li>
+&lt;li>Debit spread due to “in the money”.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/4fmTJni.png"
+loading="lazy"
+>&lt;/p>
+&lt;/blockquote></description></item><item><title>Balanced Calander Spread</title><link>https://www.optionsmaddy.github.io/p/balanced-calander-spread/</link><pubDate>Mon, 31 Oct 2022 20:31:01 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/balanced-calander-spread/</guid><description>&lt;h1 id="balanced-calendar-spread">Balanced Calendar Spread
+&lt;/h1>&lt;ul>
+&lt;li>Balanced means Delta, Theta &amp;amp; Vega is balanced. Refer : &lt;a class="link" href="pr-sundar-mission-options-full.md" >pr-sundar-mission-options-full&lt;/a>&lt;/li>
+&lt;li>Calendar Spread = Different expiry&lt;/li>
+&lt;li>Spread = Combo PE CE&lt;/li>
+&lt;li>Balanced + Calendar + Spread = Balanced Calendar Spread.&lt;/li>
+&lt;li>Deployment = 80K ( 2.4 Lakhs )&lt;/li>
+&lt;li>Time : Bi Monday.&lt;/li>
+&lt;li>Bi weekly 35-45
+&lt;img src="https://i.imgur.com/X5H8fAU.png"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/JRDCQvt.png"
+loading="lazy"
+>&lt;/li>
+&lt;li>Hedge should be of the same or slightly larger amount than the sold premium.&lt;/li>
+&lt;li>ONLY IN NIFTY because of liquidity.
+&lt;img src="https://i.imgur.com/DMcDgjo.png"
+loading="lazy"
+>&lt;/li>
+&lt;li>Keep Adjusting.&lt;/li>
+&lt;li>Close positions when loss crosses 6k.
+&lt;img src="https://i.imgur.com/3EaSvXq.png"
+loading="lazy"
+>&lt;/li>
+&lt;li>This is just like iron condor adjustments.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h6 id="-tuesday-18th-october-2022">📅 Tuesday, 18th October 2022
+&lt;/h6>&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;iframe width="280" height="158" src="https://www.youtube.com/embed/M51L5OXN-E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></description></item><item><title>Iron Condor 🦅</title><link>https://www.optionsmaddy.github.io/p/iron-condor/</link><pubDate>Mon, 31 Oct 2022 20:31:00 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/iron-condor/</guid><description>&lt;h1 id="iron-condor-">Iron Condor 🦅
+&lt;/h1>&lt;ul>
+&lt;li>&amp;ldquo;Cheap&amp;rdquo;, &amp;ldquo;Risk Capped&amp;rdquo;, &amp;ldquo;Safe Neutral Strategy&amp;rdquo; for either Range bound market or Volatile market.&lt;/li>
+&lt;/ul>
+&lt;h2 id="features-">Features 🌈
+&lt;/h2>&lt;ul>
+&lt;li>Cheap&lt;/li>
+&lt;li>Risk Capped on both sides.&lt;/li>
+&lt;li>Awkward to adjust.&lt;/li>
+&lt;li>Aka &amp;ldquo;Credit Spread&amp;rdquo;.&lt;/li>
+&lt;li>Combination of &amp;ldquo;Credit Put Spread&amp;rdquo; + &amp;ldquo;Credit Call Spread&amp;rdquo;
+&lt;ul>
+&lt;li>Short Iron Condor - Profit if Range Bound.&lt;/li>
+&lt;li>Long Iron Condor - Profit if Volatile.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delta Neutral&lt;/li>
+&lt;li>Only One side is tested, Other side is not tested. Hence we can do adjustment on only one side.&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="conditions-">Conditions ☝🏼
+&lt;/h2>&lt;p>Do Iron Condor IF&lt;/p>
+&lt;ol>
+&lt;li>IV &amp;gt; HV&lt;/li>
+&lt;li>30+ IV Rank&lt;/li>
+&lt;li>Bearish Volatility&lt;/li>
+&lt;li>For any IV or Falling IV&lt;/li>
+&lt;li>For Weekly or Monthly Expiry. ( 60 Days )&lt;/li>
+&lt;li>Checkout [[9 Rules of Options - Sourabh Gandhi]]&lt;/li>
+&lt;/ol>
+&lt;h2 id="remember-">Remember 🤔
+&lt;/h2>&lt;ol>
+&lt;li>Medium Margin/Capital Requirement&lt;/li>
+&lt;li>Medium Risk&lt;/li>
+&lt;li>High Leverage&lt;/li>
+&lt;li>Capped Risk&lt;/li>
+&lt;li>Non Directional&lt;/li>
+&lt;li>Probability of Profit around 60%.&lt;/li>
+&lt;li>Check for liquidity.&lt;/li>
+&lt;/ol>
+&lt;h2 id="step-by-step-placement-of-order-">Step by Step Placement of Order 🪜
+&lt;/h2>&lt;ol>
+&lt;li>Select Strike Price as per Spot Nifty. ( 100 Pts Rule)
+&lt;ol>
+&lt;li>Note Down Current Strike Price.&lt;/li>
+&lt;li>Note Down X &amp;amp; Y
+&lt;ul>
+&lt;li>X = Price/Lot of Current Strike Price - 100 PE&lt;/li>
+&lt;li>Y = Price/Lot of Current Strike Price + 100 CE&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>X + Y = Z, Round Off Z.&lt;/li>
+&lt;li>Consider Z as Pts.
+&lt;ul>
+&lt;li>Subtract Z from PE&lt;/li>
+&lt;li>Add Z to CE&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Note down 4 Orders &amp;amp; Price.
+&lt;ul>
+&lt;li>&lt;img src="https://i.imgur.com/D4F4b2Q.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Make Scenario to know Risk Reward.
+&lt;ul>
+&lt;li>&lt;img src="https://i.imgur.com/DA48rEb.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Create Basket in Zerodha Kite
+&lt;ul>
+&lt;li>Note Down Margin.&lt;/li>
+&lt;li>Make sure Atlest 5% more than margin money available.&lt;/li>
+&lt;li>Note Down ( Expected Profit to exit) 4% * Margin to 5% * Margin.&lt;/li>
+&lt;li>Execute later.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Trade Execution&lt;/li>
+&lt;li>Book Profit ( Conservative Basis )
+&lt;ul>
+&lt;li>Important &amp;amp; Difficult&lt;/li>
+&lt;li>Don&amp;rsquo;t Wait for Maximum profit.&lt;/li>
+&lt;li>4% to 5% weekly profit wrt Margin Deployed.&lt;/li>
+&lt;li>Square off 4 trades simultaneously.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="suggestions-">Suggestions 🧙🏼‍♂️
+&lt;/h2>&lt;ul>
+&lt;li>Monthly Iron condor is better than weekly Iron Condor position as the T+0 line is less steeper.&lt;/li>
+&lt;li>T+0 less steeper, better position.&lt;/li>
+&lt;li>T+0 line, dotted line, How position will behave today.&lt;/li>
+&lt;li>Other line, how it will perform expiry.&lt;/li>
+&lt;li>Monthly Iron Condor &amp;lt; Weekly Iron Condor&lt;/li>
+&lt;li>Weekly have lot more negative gamma than monthly IC.&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-to-take-monthly-ic-position-using-delta">How to take Monthly IC position using delta
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/SVLewUo.png"
+loading="lazy"
+>&lt;/p>
+&lt;ol>
+&lt;li>Check Greeks on each Strike Price.&lt;/li>
+&lt;li>Positive delta value for call option.&lt;/li>
+&lt;li>Now determined Call Option, take other 3 positions.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://i.imgur.com/tpFQ2T8.png"
+loading="lazy"
+>&lt;/p>
+&lt;h4 id="eg-calculations">eg: Calculations
+&lt;/h4>&lt;p>&lt;a class="link" href="https://i.imgur.com/QGgfmpF.png" target="_blank" rel="noopener"
+>&lt;img src="https://i.imgur.com/QGgfmpFm.png"
+loading="lazy"
+>&lt;/a>&lt;/p>
+&lt;h4 id="eg-chart">eg: Chart
+&lt;/h4>&lt;p>&lt;a class="link" href="https://i.imgur.com/SJlB0dG.png" target="_blank" rel="noopener"
+>&lt;img src="https://i.imgur.com/SJlB0dGm.png"
+loading="lazy"
+>&lt;/a>&lt;/p>
+&lt;h2 id="diagram-">Diagram 📈
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/eTsyDM1.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/uHBsEFP.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/k2HqgxN.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="adjustment">Adjustment
+&lt;/h2>&lt;h3 id="adjustment-01">Adjustment 01
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/thdjbfw.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="adjustment-02">Adjustment 02
+&lt;/h3>&lt;ul>
+&lt;li>Convert Iron Condor to Iron Butterfly.
+&lt;ul>
+&lt;li>Leave one Loss making sell order. Square off the rest for profit.&lt;/li>
+&lt;li>Then make an Iron Butterfly. Remember you are already in profit.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="iron-condor-backtest">Iron Condor Backtest
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/G5rcLDI.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/n6qXwCc.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>Gave around 38% for jun to sep 2022.&lt;/li>
+&lt;li>Gave around 35% for jan to mar 2022.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;iframe width="250" height="150" src="https://www.youtube.com/embed/mkSuGYcd7is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></description></item><item><title>Options Strategies Cheat Sheets</title><link>https://www.optionsmaddy.github.io/p/options-strategies-cheat-sheets/</link><pubDate>Mon, 31 Oct 2022 20:31:00 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/options-strategies-cheat-sheets/</guid><description>&lt;h1 id="options-cheat-sheets">Options Cheat Sheets
+&lt;/h1>&lt;p>&lt;img src="https://i.imgur.com/ZNTg9Pw.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/TPhJoxP.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/kRvWsUS.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/RAPERqZ.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/kcEoB9j.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/ffit2qU.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/51oyDNp.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;a class="link" href="https://i.imgur.com/DJtvPXa.jpg" target="_blank" rel="noopener"
+>&lt;img src="https://i.imgur.com/DJtvPXa.jpg"
+loading="lazy"
+>&lt;/a>
+&lt;img src="https://i.imgur.com/AwhDHnr.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/gI473ir.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/H73DEhs.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/WdCDJye.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/uVaq0fX.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/bkHynbJ.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/uPxlEkQ.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/q7SAbIj.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/3mP7aFmm.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;hr>
+&lt;p>📅 Saturday, April 23, 2022 (10:12 AM) - &lt;em>Created&lt;/em>
+🗓️ &lt;code>=dateformat(this.file.mtime, &amp;quot;DDDD '('hh':'mm a')'&amp;quot;)&lt;/code> - &lt;em>Last Modified&lt;/em>&lt;/p>
+&lt;hr></description></item><item><title>Options Strategies List</title><link>https://www.optionsmaddy.github.io/p/options-strategies-list/</link><pubDate>Mon, 31 Oct 2022 20:31:00 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/options-strategies-list/</guid><description>&lt;h1 id="option-strategies-lists">Option Strategies Lists
+&lt;/h1>&lt;h2 id="unsure-times-strategy">Unsure Times Strategy
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/1hbCVOS.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="neutral-strategy">Neutral Strategy
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/jastyOZ.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="bearish-strategies">Bearish Strategies
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/JijtQeP.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="bullish-strategies">Bullish Strategies
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/rTjM57C.png"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;hr>
+&lt;p>📅 Wednesday, April 20, 2022 (08:09 PM) - &lt;em>Created&lt;/em>
+🗓️ &lt;code>=dateformat(this.file.mtime, &amp;quot;DDDD '('hh':'mm a')'&amp;quot;)&lt;/code> - &lt;em>Last Modified&lt;/em>&lt;/p>
+&lt;hr></description></item><item><title>Option Strategies Capital Execution</title><link>https://www.optionsmaddy.github.io/p/option-strategies-capital-execution/</link><pubDate>Mon, 31 Oct 2022 20:30:53 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/option-strategies-capital-execution/</guid><description>&lt;h1 id="option-strategies-capital-execution">Option Strategies Capital Execution
+&lt;/h1>&lt;p>&lt;img src="https://i.imgur.com/EV4dA4x.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️&lt;/p>
+&lt;hr>
+&lt;p>📅 Sunday, June 12, 2022 (09:09 PM) - &lt;em>Created&lt;/em>&lt;/p></description></item><item><title>Options Strategies Trade book Diagrams (26 Proven Option Strategies)</title><link>https://www.optionsmaddy.github.io/p/options-strategies-trade-book-diagrams-26-proven-option-strategies/</link><pubDate>Mon, 31 Oct 2022 20:30:53 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/options-strategies-trade-book-diagrams-26-proven-option-strategies/</guid><description>&lt;h1 id="options-strategies-trade-book-diagrams-26-proven-option-strategies">Options Strategies Trade book Diagrams (26 Proven Option Strategies)
+&lt;/h1>&lt;p>&lt;img src="https://i.imgur.com/HUbjCZL.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/gz8aAAA.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/m368ASN.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/tYAfYrm.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/jK2djAn.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/cgFskR1.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/CT4PEgl.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/PTiIY3k.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/bas07Sg.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/lT1QUdt.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/BYgfh7A.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/Gm7qXzN.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/9Q2Ynk4.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/kHDwDyw.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/AGIMhpm.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/TO2mvCh.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/tf5L7Nt.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/EhmnDrM.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/Ydjp64X.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/pn5KOpl.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/DoIZbMc.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/aPeslIv.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/3xyfqJo.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/hUi6HUZ.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/9O1QP4a.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/2LDXLBJ.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/TVBwirm.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/8OrqVAU.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/9h6Vp6x.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;hr>
+&lt;p>📅 Saturday, April 23, 2022 (11:53 AM) - &lt;em>Created&lt;/em>
+🗓️ &lt;code>=dateformat(this.file.mtime, &amp;quot;DDDD '('hh':'mm a')'&amp;quot;)&lt;/code> - &lt;em>Last Modified&lt;/em>&lt;/p>
+&lt;hr></description></item><item><title>Options Strategies Trade book Diagrams (Simple Option Strategies Book)</title><link>https://www.optionsmaddy.github.io/p/options-strategies-trade-book-diagrams-simple-option-strategies-book/</link><pubDate>Mon, 31 Oct 2022 20:30:53 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/options-strategies-trade-book-diagrams-simple-option-strategies-book/</guid><description>&lt;h1 id="options-strategies-trade-book-diagrams-simple-option-strategies-book">Options Strategies Trade book Diagrams (Simple Option Strategies Book)
+&lt;/h1>&lt;p>&lt;img src="https://i.imgur.com/LtIyy3V.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/NeuuMRh.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/v5jwCaJ.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/NRrFrl9.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/rDyGXoj.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/pt5WFYt.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/GJiZbPG.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/Gon3J4x.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/SopzVc6.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/91jXMc5.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/zpGC8vT.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/mu7JLL6.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/boP0rmE.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;hr>
+&lt;p>📅 Saturday, April 23, 2022 (11:49 AM) - &lt;em>Created&lt;/em>
+🗓️ &lt;code>=dateformat(this.file.mtime, &amp;quot;DDDD '('hh':'mm a')'&amp;quot;)&lt;/code> - &lt;em>Last Modified&lt;/em>&lt;/p>
+&lt;hr></description></item><item><title>Options Strategies Trade book Diagrams OIC</title><link>https://www.optionsmaddy.github.io/p/options-strategies-trade-book-diagrams-oic/</link><pubDate>Mon, 31 Oct 2022 20:30:53 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/options-strategies-trade-book-diagrams-oic/</guid><description>&lt;h1 id="options-strategies-trade-book-diagrams-oic">Options Strategies Trade book Diagrams OIC
+&lt;/h1>&lt;p>&lt;img src="https://i.imgur.com/vPRbNNr.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/N98RBvr.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/sBp9DVm.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/dMgAjt1.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/NfSKt5u.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/sbMsWDK.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/nPcKvhX.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/TxcLSMG.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/MNnFUbl.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/QGGo6qo.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/WMfjYIc.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/tWYdqCY.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/jIkc7Z0.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/0b0QPpR.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/Bnf10n9.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/dcx31nV.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/eVhKP0A.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/PMw6aVd.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/2Six4uw.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/nxbAcE3.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/0dFYTTv.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/rmZQ443.jpg"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/cfgVFcC.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;hr>
+&lt;p>📅 Saturday, April 23, 2022 (11:25 AM) - &lt;em>Created&lt;/em>
+🗓️ &lt;code>=dateformat(this.file.mtime, &amp;quot;DDDD '('hh':'mm a')'&amp;quot;)&lt;/code> - &lt;em>Last Modified&lt;/em>&lt;/p>
+&lt;hr></description></item></channel></rss>

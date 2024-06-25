@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Calendar-Spread🗓️ on OptionsMaddy</title><link>https://www.optionsmaddy.github.io/tags/calendar-spread%EF%B8%8F/</link><description>Recent content in Calendar-Spread🗓️ on OptionsMaddy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 18:02:03 +0530</lastBuildDate><atom:link href="https://www.optionsmaddy.github.io/tags/calendar-spread%EF%B8%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>Calendar Spread</title><link>https://www.optionsmaddy.github.io/p/calendar-spread/</link><pubDate>Fri, 20 Jan 2023 18:02:03 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/calendar-spread/</guid><description>&lt;ul>
+&lt;li>Two types of Calendar Spread
+&lt;ol>
+&lt;li>Debit Calendar Spread&lt;/li>
+&lt;li>Credit Calendar Spread&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;img src="https://i.imgur.com/IQzQjaDm.png"
+loading="lazy"
+>&lt;/li>
+&lt;li>Usually Calendar does not work well with Indian market - #🧔IT-Jagan&lt;/li>
+&lt;li>Reason being the decay is almost same.&lt;/li>
+&lt;li>Only good when vix is low.&lt;/li>
+&lt;/ul></description></item><item><title>Balanced Calander Spread</title><link>https://www.optionsmaddy.github.io/p/balanced-calander-spread/</link><pubDate>Mon, 31 Oct 2022 20:31:01 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/balanced-calander-spread/</guid><description>&lt;h1 id="balanced-calendar-spread">Balanced Calendar Spread
+&lt;/h1>&lt;ul>
+&lt;li>Balanced means Delta, Theta &amp;amp; Vega is balanced. Refer : &lt;a class="link" href="pr-sundar-mission-options-full.md" >pr-sundar-mission-options-full&lt;/a>&lt;/li>
+&lt;li>Calendar Spread = Different expiry&lt;/li>
+&lt;li>Spread = Combo PE CE&lt;/li>
+&lt;li>Balanced + Calendar + Spread = Balanced Calendar Spread.&lt;/li>
+&lt;li>Deployment = 80K ( 2.4 Lakhs )&lt;/li>
+&lt;li>Time : Bi Monday.&lt;/li>
+&lt;li>Bi weekly 35-45
+&lt;img src="https://i.imgur.com/X5H8fAU.png"
+loading="lazy"
+>
+&lt;img src="https://i.imgur.com/JRDCQvt.png"
+loading="lazy"
+>&lt;/li>
+&lt;li>Hedge should be of the same or slightly larger amount than the sold premium.&lt;/li>
+&lt;li>ONLY IN NIFTY because of liquidity.
+&lt;img src="https://i.imgur.com/DMcDgjo.png"
+loading="lazy"
+>&lt;/li>
+&lt;li>Keep Adjusting.&lt;/li>
+&lt;li>Close positions when loss crosses 6k.
+&lt;img src="https://i.imgur.com/3EaSvXq.png"
+loading="lazy"
+>&lt;/li>
+&lt;li>This is just like iron condor adjustments.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h6 id="-tuesday-18th-october-2022">📅 Tuesday, 18th October 2022
+&lt;/h6>&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;iframe width="280" height="158" src="https://www.youtube.com/embed/M51L5OXN-E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></description></item></channel></rss>

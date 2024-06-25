@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trading-Indicator📊 on OptionsMaddy</title><link>https://www.optionsmaddy.github.io/tags/trading-indicator/</link><description>Recent content in Trading-Indicator📊 on OptionsMaddy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 04 Mar 2023 19:19:45 +0530</lastBuildDate><atom:link href="https://www.optionsmaddy.github.io/tags/trading-indicator/index.xml" rel="self" type="application/rss+xml"/><item><title>Pivot Points for Intraday Trading</title><link>https://www.optionsmaddy.github.io/p/pivot-points-for-intraday-trading/</link><pubDate>Sat, 04 Mar 2023 19:19:45 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/pivot-points-for-intraday-trading/</guid><description>&lt;h1 id="pivot-points-for-intraday-trading">Pivot Points for Intraday Trading
+&lt;/h1>&lt;h2 id="face-2-face-cpr">Face 2 Face CPR
+&lt;/h2>&lt;h3 id="what-is-cpr-">What is CPR ?
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>Price Action Indicator.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>TP, P &amp;amp; BP provides range.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;img src="https://i.imgur.com/WBN0qzam.png"
+loading="lazy"
+>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>CPR indicator has 3 Levels&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Top Central Pivot( TCP)&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Central Pivot Point (Pivot)&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Bottom Central Pivot (BCP)&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>[!INFO]+ CPR Uses&lt;/p>
+&lt;ul>
+&lt;li>CPR used to
+&lt;ul>
+&lt;li>Foresee the movements in stock price.&lt;/li>
+&lt;li>Predict trend.&lt;/li>
+&lt;li>Gives support &amp;amp; resistance.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h4 id="types-of-cpr">Types of CPR
+&lt;/h4>&lt;p>&lt;img src="https://i.imgur.com/eLOJ9k1.png"
+loading="lazy"
+>&lt;/p>
+&lt;h4 id="characteristics-of-wide--narrow-cpr">Characteristics of Wide &amp;amp; Narrow CPR
+&lt;/h4>&lt;h5 id="wide-cpr">Wide CPR
+&lt;/h5>&lt;p>&lt;img src="https://i.imgur.com/EQ92Oyk.png"
+loading="lazy"
+>&lt;/p>
+&lt;h5 id="narrow-cpr">Narrow CPR
+&lt;/h5>&lt;p>&lt;img src="https://i.imgur.com/KIjx8Mk.png"
+loading="lazy"
+>&lt;/p>
+&lt;h4 id="using-cpr">Using CPR
+&lt;/h4>&lt;ul>
+&lt;li>
+&lt;p>Long if chart above CPR.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Short if chart below CPR.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Three lines narrow → Trending Market.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Three lines wide → Sideways Market.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Above CPR → Long.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Below CPR → Short.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>[!EXAMPLE]+ Which Chart to use with what Indicator&lt;/p>
+&lt;ul>
+&lt;li>Use 5 minutes chart for intraday.
+&lt;ul>
+&lt;li>Daily CPR indicator for daily CPR.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Use 1 Hour chart for Positional.
+&lt;ul>
+&lt;li>Weekly CPR indicator for weekly.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Use daily Chart for longer / Swing trades.
+&lt;ul>
+&lt;li>Monthly CPR&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://i.imgur.com/XD2voEc.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>Use CPR by KGS on trading view.&lt;/li>
+&lt;li>Disable everything except daily pivots + prev day high &amp;amp; low.
+&lt;ul>
+&lt;li>PDH &amp;amp; R1 are twins.&lt;/li>
+&lt;li>PDL &amp;amp; R2 are twins.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;img src="https://i.imgur.com/PwjZn06.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;h3 id="positional-option-selling">POSITIONAL OPTION SELLING
+&lt;/h3>&lt;ul>
+&lt;li>Use 1 hour chart with weekly CPR for option selling.
+&lt;ul>
+&lt;li>Above CPR → Bullish → Bull Put Spread&lt;/li>
+&lt;li>Below CPR → Bearish → Bear Call Spread&lt;/li>
+&lt;li>On CPR → Iron Condor.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/uVvejtR.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>While taking position, when cpr is under the first 1hr candle ( or chart for weekly ) then it is bullish signal.&lt;/li>
+&lt;li>So we put bull put spread.&lt;/li>
+&lt;li>SL &amp;amp; Pre Wk Low are twins.&lt;/li>
+&lt;li>I take mid-point &amp;amp; sell it then lower strike buy to hedge it will.&lt;/li>
+&lt;li>SL should be 1:1 though RR won&amp;rsquo;t be 1:1. Hold till expiry.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/pw99uRU.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/n0naY6e.png"
+loading="lazy"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>[!QUOTE]+ Easy to remember by MD
+Consider as CPR spring board. ♨️
+Over spring jump up.⤴️👆
+Under spring fall down.⤵️👇&lt;/p>
+&lt;/blockquote>
+&lt;h5 id="bear-call-">Bear Call 🐻
+&lt;/h5>&lt;ul>
+&lt;li>When CPR over chart.
+&lt;img src="https://i.imgur.com/hzor0r7.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;h5 id="bull-put-">Bull Put 🐂
+&lt;/h5>&lt;ul>
+&lt;li>When CPR under chart.
+&lt;img src="https://i.imgur.com/E05JBi5.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/leCfnP5.png"
+loading="lazy"
+>&lt;/p>
+&lt;h5 id="bull-put--vs-bear-call-">Bull Put 🐂 vs Bear Call 🐻
+&lt;/h5>&lt;p>&lt;img src="https://i.imgur.com/78P9zXa.png"
+loading="lazy"
+>&lt;/p>
+&lt;h4 id="iron-condor">Iron Condor
+&lt;/h4>&lt;p>&lt;img src="https://i.imgur.com/6kAi1nn.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="statistics">Statistics
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>Class By Mr. Gomathi Shankar.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>PivotPedia by Neeraj Jangid&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/XWQzEvz.png"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>#Investments💷/Trading-Indicator📊&lt;/p>
+&lt;h4 id="reference">Reference
+&lt;/h4>&lt;p>&lt;img src="https://i.imgur.com/1szqsjx.png"
+loading="lazy"
+>&lt;/p></description></item><item><title>Lorentzian Classification Machine Learning Driven TradingView Indicator</title><link>https://www.optionsmaddy.github.io/p/lorentzian-classification-machine-learning-driven-tradingview-indicator/</link><pubDate>Sat, 04 Mar 2023 18:53:12 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/lorentzian-classification-machine-learning-driven-tradingview-indicator/</guid><description>&lt;h1 id="lorentzian-classification-machine-learning-driven-tradingview-indicator">Lorentzian Classification Machine Learning Driven TradingView Indicator
+&lt;/h1>&lt;h2 id="-lorentzian-classification-machine-learning-driven-tradingview-indicator--nadaraya-watson-envelope--voss-predictor-indicator"># Lorentzian Classification Machine Learning Driven TradingView Indicator + Nadaraya Watson Envelope + Voss Predictor Indicator
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/Pcf7S1g.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/T3xVF9N.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/mVqtyZf.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Use &lt;strong>Regime Filter&lt;/strong> to increase or decrease calls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regime Filter negative → More calls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regime Filter positive → Less calls, more rigorous.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Use &lt;strong>ADX Filter&lt;/strong> for the same.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Don’t have both (regime &amp;amp; ADX) together.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>EMA, SMA for contra trends. Don’t do contra trends for 10 min 12 min&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Use Kernel settings to increase hit rate. Find patterns like head &amp;amp; shoulder.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“Relative weight” to increase win rate in a specific time interval.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Use Nadaria Whatson indicator ( from same author ) to confirm bearish or bullish.
+&lt;img src="https://i.imgur.com/3XKR5Nm.png"
+loading="lazy"
+>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>🖇️ Reference :&lt;/p>
+&lt;div style="position:relative;width:100%;overflow:hidden;padding-top:56.25%;">
+&lt;iframe frameborder="0" title="YouTube video player" type="text/html" src="https://www.youtube.com/embed/AdINVvnJfX4? &amp;enablejsapi=1&amp;modestbranding=1&amp;rel=0&amp;iv_load_policy=3&amp;color=white&amp;start=05&amp;widget_referrer=Mahadevan%20Iyer&amp;hl=en" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style='position:absolute;bottom:0;width:100%;height:100%;'>&lt;/iframe>
+&lt;/div>
+&lt;p>#Investments💷/Trading-Indicator📊&lt;/p></description></item><item><title>Supertrend by PR Sundar</title><link>https://www.optionsmaddy.github.io/p/supertrend-by-pr-sundar/</link><pubDate>Wed, 07 Dec 2022 13:03:44 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/supertrend-by-pr-sundar/</guid><description>&lt;ul>
+&lt;li>Supertrend by #🧔PRSundar&lt;/li>
+&lt;li>Positional only.&lt;/li>
+&lt;li>Change to hourly candle.&lt;/li>
+&lt;li>Take Hikanashi Candlestick.&lt;/li>
+&lt;li>Hikanashi takes out the noise, gap up, gap down.&lt;/li>
+&lt;li>Three super trend markers.&lt;/li>
+&lt;li>SETUP : 3 Super Trend indicator on → (14,2) | (21,1) | (7,3) &amp;amp; super trend Arrow markers for these 3 indicators in trading view.&lt;/li>
+&lt;li>Multiple arrows, Fast Movement.
+&lt;img src="https://i.imgur.com/FVyY4zy.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>==When 3 Red lines comes &amp;amp; Red arrow comes go short, When 3 green line comes &amp;amp; Green arrow comes go long.==&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>You don&amp;rsquo;t put manually stopless.&lt;/li>
+&lt;li>When 3 opposite lines come, then you can exit.&lt;/li>
+&lt;li>Large sparse wins, Small frequent losses.&lt;/li>
+&lt;li>Mostly, short position stop loss is hit many times, but long position stop loss is rarely hit.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>==Usually people follow super trend only for LONG.==&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Super trend works well on bank nifty.&lt;/li>
+&lt;/ul>
+&lt;p>#Investments💷/Trading-Indicator📊&lt;/p>
+&lt;hr></description></item><item><title>Mitesh Patel Tips</title><link>https://www.optionsmaddy.github.io/p/mitesh-patel-tips/</link><pubDate>Mon, 31 Oct 2022 20:30:53 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/mitesh-patel-tips/</guid><description>&lt;h1 id="mitesh-patel-tips">Mitesh Patel Tips
+&lt;/h1>&lt;ul>
+&lt;li>Uses VWAP.
+&lt;ul>
+&lt;li>Shows Avg Price of Avg Volume.&lt;/li>
+&lt;li>Candles Below VWAP line.
+&lt;ul>
+&lt;li>Below VWAP seller strong&lt;/li>
+&lt;li>Above VWAP buyer strong.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Intraday safer.&lt;/li>
+&lt;li>Large candle determines direction.&lt;/li>
+&lt;li>Put sell when bullish.&lt;/li>
+&lt;li>Call sell when bearish.&lt;/li>
+&lt;li>Pair same size red green candles.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;hr>
+&lt;p>📅 Monday, April 25, 2022 (02:52 PM) - &lt;em>Created&lt;/em>&lt;/p></description></item></channel></rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Strangle🪢 on OptionsMaddy</title><link>https://www.optionsmaddy.github.io/tags/strangle/</link><description>Recent content in Strangle🪢 on OptionsMaddy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 13:28:46 +0530</lastBuildDate><atom:link href="https://www.optionsmaddy.github.io/tags/strangle/index.xml" rel="self" type="application/rss+xml"/><item><title>Option Strangle Adjustment</title><link>https://www.optionsmaddy.github.io/p/option-strangle-adjustment/</link><pubDate>Mon, 05 Dec 2022 13:28:46 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/option-strangle-adjustment/</guid><description>&lt;ul>
+&lt;li>Option Strangle Adjustment by #🧔Apna-Trader.&lt;/li>
+&lt;li>Sell 20 Delta Call &amp;amp; Put for Bank Nifty or Index.
+&lt;ul>
+&lt;li>Goto Option Chain. &lt;a class="link" href="https://opstra.definedge.com/strategy-builder/" target="_blank" rel="noopener"
+>https://opstra.definedge.com/strategy-builder/&lt;/a>&lt;/li>
+&lt;li>Sell Call with around 20 Delta, Sell Put with around 20 Delta.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Sell 15 Delta Call &amp;amp; Put for Shares.&lt;/li>
+&lt;/ul>
+&lt;p>Criteria for Adjustment&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>==When Adjustment = Price of Losing Trade &amp;gt; 2 x Price of Winning Trade.==&lt;/p>
+&lt;ul>
+&lt;li>&lt;img src="https://i.imgur.com/5yft4K5m.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>==How Adjustment = Exit Winning Side + Enter New Trade with Delta Equal to Losing Side.==&lt;/p>
+&lt;ul>
+&lt;li>&lt;img src="https://i.imgur.com/dR1hG4Sm.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Goto P&amp;amp;L in Opstra Check Current Price.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;img src="https://i.imgur.com/wDsPR3f.png"
+loading="lazy"
+>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bank Nifty 1.20L to 1.50L one lot short strangle.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Exit at 4%.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When after adjusting both side strangle is converted into straddle EXIT or perform Straddle adjustments.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When one&amp;rsquo;s judgement goes wrong.&lt;/p>
+&lt;ul>
+&lt;li>Eg : Rangebound prediction turned into trending.&lt;/li>
+&lt;li>Then Exit.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;img src="https://i.imgur.com/Jv2rc7h.png"
+loading="lazy"
+>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Exit when Straddle or 4%.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Even when the view went wrong, one could make profit with this strategy.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p style="text-align:center"> &lt;iframe width="675" height="225" src="https://www.youtube.com/embed/ozc6IT14E8E?disablekb=0&amp;enablejsapi=1&amp;modestbranding=1&amp;start=200" title="YouTube video player" frameborder="0" color="white" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe> &lt;/p>
+#Investments💷/Options-Trading🎛️</description></item><item><title>Options Strategies List</title><link>https://www.optionsmaddy.github.io/p/options-strategies-list/</link><pubDate>Mon, 31 Oct 2022 20:31:00 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/options-strategies-list/</guid><description>&lt;h1 id="option-strategies-lists">Option Strategies Lists
+&lt;/h1>&lt;h2 id="unsure-times-strategy">Unsure Times Strategy
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/1hbCVOS.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="neutral-strategy">Neutral Strategy
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/jastyOZ.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="bearish-strategies">Bearish Strategies
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/JijtQeP.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="bullish-strategies">Bullish Strategies
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/rTjM57C.png"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;hr>
+&lt;p>📅 Wednesday, April 20, 2022 (08:09 PM) - &lt;em>Created&lt;/em>
+🗓️ &lt;code>=dateformat(this.file.mtime, &amp;quot;DDDD '('hh':'mm a')'&amp;quot;)&lt;/code> - &lt;em>Last Modified&lt;/em>&lt;/p>
+&lt;hr></description></item></channel></rss>

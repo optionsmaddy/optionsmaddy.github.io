@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Greeks🔰 on OptionsMaddy</title><link>https://www.optionsmaddy.github.io/tags/greeks/</link><description>Recent content in Greeks🔰 on OptionsMaddy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 19:48:28 +0530</lastBuildDate><atom:link href="https://www.optionsmaddy.github.io/tags/greeks/index.xml" rel="self" type="application/rss+xml"/><item><title>Vega 📰</title><link>https://www.optionsmaddy.github.io/p/vega/</link><pubDate>Wed, 04 Jan 2023 19:48:28 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/vega/</guid><description>&lt;p>&lt;img src="https://i.imgur.com/1lWFwiO.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/qhb4agp.png"
+loading="lazy"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>PR Sundar Theta : [[PR Sundar - Mission Options Full#20. Option Greeks 3 VEGA 📰]]&lt;/p>
+&lt;/blockquote></description></item><item><title>Theta ⌚</title><link>https://www.optionsmaddy.github.io/p/theta/</link><pubDate>Wed, 04 Jan 2023 19:48:11 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/theta/</guid><description>&lt;p>&lt;img src="https://i.imgur.com/V1ddFmL.png"
+loading="lazy"
+>&lt;/p></description></item><item><title>Gamma 🏎️</title><link>https://www.optionsmaddy.github.io/p/gamma-%EF%B8%8F/</link><pubDate>Wed, 04 Jan 2023 19:47:57 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/gamma-%EF%B8%8F/</guid><description>&lt;p>&lt;img src="https://i.imgur.com/8Y6RbGZ.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/JFlOZJf.png"
+loading="lazy"
+>&lt;/p></description></item><item><title>Delta 📏</title><link>https://www.optionsmaddy.github.io/p/delta/</link><pubDate>Wed, 04 Jan 2023 19:47:38 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/delta/</guid><description>&lt;ul>
+&lt;li>-1 to 1&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/rXBOFHm.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/N2HGABl.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>At ATM ==Call Delta + Put Delta = 1==&lt;/li>
+&lt;li>OTM Delta &amp;lt; 0&lt;/li>
+&lt;li>ITM Delta &amp;gt; 0&lt;/li>
+&lt;li>PUT Delta = -1 to 0&lt;/li>
+&lt;li>Call Delta = 0 to 1&lt;/li>
+&lt;/ul>
+&lt;h1 id="pr-sundar-on-delta-">PR Sundar on Delta 📏
+&lt;/h1>&lt;p>&lt;a class="link" href="pr-sundar-mission-options-full.md" >pr-sundar-mission-options-full&lt;/a>&lt;/p></description></item><item><title>Option Greeks</title><link>https://www.optionsmaddy.github.io/p/option-greeks/</link><pubDate>Wed, 04 Jan 2023 19:46:59 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/option-greeks/</guid><description>&lt;h2 id="option-greeks-overview">Option Greeks Overview
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/vv9SefK.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="delta-">Delta 📏
+&lt;/h2>&lt;p>![[Delta 📏]]&lt;/p>
+&lt;h2 id="gamma-">Gamma 🏎️
+&lt;/h2>&lt;p>![[Gamma 🏎️]]&lt;/p>
+&lt;h2 id="vega-">Vega 📰
+&lt;/h2>&lt;p>![[Vega 📰]]&lt;/p>
+&lt;h2 id="theta-">Theta ⌚
+&lt;/h2>&lt;p>![[Theta ⌚]]&lt;/p>
+&lt;h2 id="reference">Reference
+&lt;/h2></description></item><item><title>Option Greeks Infographics</title><link>https://www.optionsmaddy.github.io/p/option-greeks-infographics/</link><pubDate>Mon, 31 Oct 2022 20:30:53 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/option-greeks-infographics/</guid><description>&lt;h1 id="option-greeks">Option Greeks
+&lt;/h1>&lt;p>&lt;img src="https://i.imgur.com/pGkvnQ2.jpg"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️&lt;/p></description></item></channel></rss>
