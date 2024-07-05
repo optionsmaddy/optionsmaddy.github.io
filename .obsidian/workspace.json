@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config/_default/config.toml",
+                "file": "content/post/Change in Strategy/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config/_default/config.toml",
+                "file": "content/post/Change in Strategy/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config/_default/config.toml",
+                "file": "content/post/Change in Strategy/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config/_default/config.toml"
+                "file": "content/post/Change in Strategy/index.md"
               }
             }
           },
@@ -157,8 +157,13 @@
   },
   "active": "7712001d086ed93a",
   "lastOpenFiles": [
-    "nojekyll.md",
+    "content/post/Change in Strategy/cover.jpg",
+    "content/post/+5653 Profit 21-March-2024/cover.jpg",
+    "content/post/Change in Strategy/index.md",
+    "content/post/Untitled.md",
     "config/_default/config.toml",
+    "content/post/Change in Strategy",
+    "nojekyll.md",
     "content/unpublished/mds-options-trading-checklist.md",
     "content/post/old_posts/best-time-for-options.md",
     "content/post/old_posts/2023-06-23 Closed Monthly Short Took July Straddle MTM Profit +1,810.md",
@@ -168,7 +173,6 @@
     "content/post/old_posts/theta.md",
     "content/post/old_posts/zero-sum-game.md",
     "content/post/+5653 Profit 21-March-2024/index.md",
-    "content/post/+5653 Profit 21-March-2024/cover.jpg",
     "content/categories/example-category/_index.md",
     "static/covers/cover_trade.png",
     "static/covers/cover_tech.jpg",
@@ -193,14 +197,11 @@
     "config/_default/markup.toml",
     "config/_default/menu.toml",
     "config/_default/module.toml",
-    "config/_default/_languages.toml",
     "content/post/old_posts/2023-04 Month End April Profit and Loss.md",
     "content/post/old_posts/4-things-to-check-before-option-selling.md",
     "content/post/old_posts/2023-06-14  Closed Positions Profit Realized +16,497.md",
     "content/post/old_posts/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
     "content/post/old_posts/2023-04-20 Expiry Profit +16,800.md",
-    "content/post/old_posts/2023-04-18 FinNifty Operator Manupulation Profit MTM +11,800.md",
-    "content/post/old_posts/2023-05-09 -2500 Loss on Finnifty SL Hunting MTM +5000.md",
-    "content/post/old_posts/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md"
+    "content/post/old_posts/2023-04-18 FinNifty Operator Manupulation Profit MTM +11,800.md"
   ]
 }
