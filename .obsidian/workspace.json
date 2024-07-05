@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3508b7c1c6ab5a33",
+        "id": "1243b48ef73835b5",
         "type": "tabs",
         "children": [
           {
-            "id": "7712001d086ed93a",
+            "id": "3f7db1cd0b2892b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Change in Strategy/index.md",
+                "file": "content/post/theta/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Change in Strategy/index.md",
+                "file": "content/post/theta/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/Change in Strategy/index.md",
+                "file": "content/post/theta/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/Change in Strategy/index.md"
+                "file": "content/post/theta/index.md"
               }
             }
           },
@@ -155,12 +155,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7712001d086ed93a",
+  "active": "3f7db1cd0b2892b3",
   "lastOpenFiles": [
+    "content/post/theta/cover.jpg",
+    "content/post/theta/index.md",
+    "content/post/old_posts/theta.md",
+    "content/post/old_posts/trade-index-options-over-stock-options.md",
+    "content/post/theta",
+    "content/post/old_posts/options-strategies-trade-book-diagrams-(simple-option-strategies-book).md",
+    "content/post/Change in Strategy/index.md",
     "content/post/Change in Strategy/cover.jpg",
     "content/post/+5653 Profit 21-March-2024/cover.jpg",
-    "content/post/Change in Strategy/index.md",
-    "content/post/Untitled.md",
     "config/_default/config.toml",
     "content/post/Change in Strategy",
     "nojekyll.md",
@@ -170,7 +175,6 @@
     "content/post/old_posts/ten-things-i-wish-i-knew-before-i-started-trading-options.md",
     "content/post/old_posts/vega.md",
     "content/post/old_posts/zerodha-kite.md",
-    "content/post/old_posts/theta.md",
     "content/post/old_posts/zero-sum-game.md",
     "content/post/+5653 Profit 21-March-2024/index.md",
     "content/categories/example-category/_index.md",
@@ -181,8 +185,6 @@
     "static/covers/cover.jpg",
     "static/covers/cover_white.jpg",
     "static/covers/cover_surreal11.jpg",
-    "static/covers/cover_surreal07.jpg",
-    "static/covers/cover_surreal02.jpg",
     "config/_default/params.toml",
     "content/post/+5653 Profit 21-March-2024",
     "README.md",
@@ -196,12 +198,9 @@
     "config/_default/related.toml",
     "config/_default/markup.toml",
     "config/_default/menu.toml",
-    "config/_default/module.toml",
     "content/post/old_posts/2023-04 Month End April Profit and Loss.md",
     "content/post/old_posts/4-things-to-check-before-option-selling.md",
     "content/post/old_posts/2023-06-14  Closed Positions Profit Realized +16,497.md",
-    "content/post/old_posts/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
-    "content/post/old_posts/2023-04-20 Expiry Profit +16,800.md",
-    "content/post/old_posts/2023-04-18 FinNifty Operator Manupulation Profit MTM +11,800.md"
+    "content/post/old_posts/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md"
   ]
 }
