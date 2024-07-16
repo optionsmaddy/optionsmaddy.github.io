@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trading-View📈 on OptionsMaddy</title><link>https://www.optionsmaddy.github.io/tags/trading-view/</link><description>Recent content in Trading-View📈 on OptionsMaddy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Mar 2023 17:04:22 +0530</lastBuildDate><atom:link href="https://www.optionsmaddy.github.io/tags/trading-view/index.xml" rel="self" type="application/rss+xml"/><item><title>Trading View Hacks</title><link>https://www.optionsmaddy.github.io/p/trading-view-hacks/</link><pubDate>Sun, 05 Mar 2023 17:04:22 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/trading-view-hacks/</guid><description>&lt;h1 id="trading-view-hacks">Trading View Hacks
+&lt;/h1>&lt;h2 id="use--after-each-stock-to-create-an-index-chart-of-that-stock">Use + after each stock to create an index chart of that stock
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/IFEEQ0D.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/sdVqZIf.png"
+loading="lazy"
+>&lt;/p>
+&lt;h1 id="curved-trendline">Curved Trendline
+&lt;/h1>&lt;ul>
+&lt;li>advance version of regular trendline&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/UA5C0qM.png"
+loading="lazy"
+>&lt;/p>
+&lt;h1 id="fundamental-analysis-in-trading-view">Fundamental Analysis in Trading view
+&lt;/h1>&lt;p>&lt;img src="https://i.imgur.com/rkRZwjU.png"
+loading="lazy"
+>&lt;/p>
+&lt;h1 id="economic-data">Economic Data
+&lt;/h1>&lt;p>&lt;img src="https://i.imgur.com/PSmaLES.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>#Investments💷/Trading-Indicator📊&lt;/p></description></item><item><title>Lorentzian Classification Machine Learning Driven TradingView Indicator</title><link>https://www.optionsmaddy.github.io/p/lorentzian-classification-machine-learning-driven-tradingview-indicator/</link><pubDate>Sat, 04 Mar 2023 18:53:12 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/lorentzian-classification-machine-learning-driven-tradingview-indicator/</guid><description>&lt;h1 id="lorentzian-classification-machine-learning-driven-tradingview-indicator">Lorentzian Classification Machine Learning Driven TradingView Indicator
+&lt;/h1>&lt;h2 id="-lorentzian-classification-machine-learning-driven-tradingview-indicator--nadaraya-watson-envelope--voss-predictor-indicator"># Lorentzian Classification Machine Learning Driven TradingView Indicator + Nadaraya Watson Envelope + Voss Predictor Indicator
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/Pcf7S1g.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/T3xVF9N.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/mVqtyZf.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Use &lt;strong>Regime Filter&lt;/strong> to increase or decrease calls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regime Filter negative → More calls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Regime Filter positive → Less calls, more rigorous.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Use &lt;strong>ADX Filter&lt;/strong> for the same.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Don’t have both (regime &amp;amp; ADX) together.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>EMA, SMA for contra trends. Don’t do contra trends for 10 min 12 min&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Use Kernel settings to increase hit rate. Find patterns like head &amp;amp; shoulder.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“Relative weight” to increase win rate in a specific time interval.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Use Nadaria Whatson indicator ( from same author ) to confirm bearish or bullish.
+&lt;img src="https://i.imgur.com/3XKR5Nm.png"
+loading="lazy"
+>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>🖇️ Reference :&lt;/p>
+&lt;div style="position:relative;width:100%;overflow:hidden;padding-top:56.25%;">
+&lt;iframe frameborder="0" title="YouTube video player" type="text/html" src="https://www.youtube.com/embed/AdINVvnJfX4? &amp;enablejsapi=1&amp;modestbranding=1&amp;rel=0&amp;iv_load_policy=3&amp;color=white&amp;start=05&amp;widget_referrer=Mahadevan%20Iyer&amp;hl=en" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style='position:absolute;bottom:0;width:100%;height:100%;'>&lt;/iframe>
+&lt;/div>
+&lt;p>#Investments💷/Trading-Indicator📊&lt;/p></description></item></channel></rss>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basics🔤 on OptionsMaddy</title><link>https://www.optionsmaddy.github.io/tags/basics/</link><description>Recent content in Basics🔤 on OptionsMaddy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 20:30:56 +0530</lastBuildDate><atom:link href="https://www.optionsmaddy.github.io/tags/basics/index.xml" rel="self" type="application/rss+xml"/><item><title>Options Basics - PR Sundar</title><link>https://www.optionsmaddy.github.io/p/options-basics-pr-sundar/</link><pubDate>Mon, 31 Oct 2022 20:30:56 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/options-basics-pr-sundar/</guid><description>&lt;h1 id="options-basics---pr-sundar">Options Basics - PR Sundar
+&lt;/h1>&lt;ul>
+&lt;li>If Nifty is trading at 12500, Some Believe it will go up, they ==buy== CALL OPTION, They make money if the market go up.&lt;/li>
+&lt;li>Some believe it will go down they will ==sell== CALL OPTION.&lt;/li>
+&lt;li>Betting works 50-50, Option market is &lt;strong>NOT&lt;/strong> 50-50.
+&lt;ul>
+&lt;li>eg: In Options,
+&lt;ul>
+&lt;li>BET : Call = V Kohli will hit 100,&lt;/li>
+&lt;li>Buyer = Yes&lt;/li>
+&lt;li>Seller = No&lt;/li>
+&lt;li>Bet amount = ₹ 10/-&lt;/li>
+&lt;li>Buyer Buys Call Option i.e. gives ₹10 to Seller&lt;/li>
+&lt;li>Scenario 01 : Score &amp;lt; 100
+&lt;ul>
+&lt;li>Seller keeps the ₹ 10.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Scenario 02 : Score &amp;gt; 100 eg : 134
+&lt;ul>
+&lt;li>Seller gives ₹ 34 to buyer.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Risk/Reward different.&lt;/li>
+&lt;li>Buyer max loss = ₹ 10/-&lt;/li>
+&lt;li>Seller max loss = Infinite
+&lt;ol>
+&lt;li>Strike Price : 100 Runs&lt;/li>
+&lt;li>Premium : ₹ 10&lt;/li>
+&lt;li>Expiry : Time&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>==Expiry usually, LAST THURSDAY EVERY MONTH.==&lt;/strong>&lt;/p>
+&lt;p>In CALL Option&lt;/p>
+&lt;ul>
+&lt;li>Seller claims it stay under the amount, hence sell call option. ( Gets Money initially from the buyer &amp;amp; Pays the amount increased. ) ( Under 🩲)&lt;/li>
+&lt;li>Buyer feels go beyond amount, hence buy call option. ( Pay Money ) ( technically, price could go to infinity ♾️)&lt;/li>
+&lt;/ul>
+&lt;p>In PUT Option&lt;/p>
+&lt;ul>
+&lt;li>Seller claims nifty stays above the strike price, hence sell put option. ( Gets Money initially &amp;amp; Pays the amount increased. ) ( Over 🧥 )&lt;/li>
+&lt;li>Buyer feels go beneath amount, hence buy put option ( Pay Money ) ( trivia : Buffet said he will buy a PUT on bitcoin) ( technically, price could come to zero 0️⃣ )&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/lJGTSEom.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>Don&amp;rsquo;t start option selling if you have less than 25 Lakhs.&lt;/li>
+&lt;li>10-15 Lakhs also sufficient, for good traders.&lt;/li>
+&lt;li>PR Sundars classes are expensive.&lt;/li>
+&lt;li>For people with 1 to 3 Lakh : Ironed Collar Options Strategy can be used.&lt;/li>
+&lt;li>🔎Search &amp;ldquo;&lt;code>Collar Option Strategy&lt;/code>&amp;rdquo;.&lt;/li>
+&lt;li>&lt;strong>[[Put vs Call]]&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;strong>Successful people don&amp;rsquo;t do different things, they do things differently.&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;p>*🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔PRSundar
+*📚Reference : PR Sundar Option Basics Playlist 3 Videos&lt;/p></description></item><item><title>Selling PUT vs Buying CALL</title><link>https://www.optionsmaddy.github.io/p/selling-put-vs-buying-call/</link><pubDate>Mon, 31 Oct 2022 20:30:56 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/selling-put-vs-buying-call/</guid><description>&lt;h1 id="selling-put-vs-buying-call">Selling PUT vs Buying CALL
+&lt;/h1>&lt;ul>
+&lt;li>Selling Put you make 4/5 times profit.&lt;/li>
+&lt;li>Buying Call you make 1/5 ties profit.&lt;/li>
+&lt;li>Selling Put costs more premium&lt;/li>
+&lt;li>Buying Call costs less premium.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔PRSundar&lt;/p>
+&lt;hr>
+&lt;p>📅 Friday, March 11, 2022 (12:19 PM) - &lt;em>Created&lt;/em>&lt;/p></description></item><item><title>Tastytrade Options</title><link>https://www.optionsmaddy.github.io/p/tastytrade-options/</link><pubDate>Mon, 31 Oct 2022 20:30:56 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/tastytrade-options/</guid><description>&lt;h1 id="tastytrade-options">Tastytrade Options
+&lt;/h1>&lt;ol>
+&lt;li>[[#Call Option]]&lt;/li>
+&lt;li>[[#Put Option]]&lt;/li>
+&lt;li>[[#Intrinsic Extrinsic value]]&lt;/li>
+&lt;li>[[#Premium Charges]]&lt;/li>
+&lt;li>[[#3 Most Important Things You Should Know as Option Beginner]]&lt;/li>
+&lt;/ol>
+&lt;h3 id="call-option">Call Option
+&lt;/h3>&lt;p>&lt;a class="link" href="https://i.imgur.com/4dErJ0j.png" target="_blank" rel="noopener"
+>&lt;img src="https://i.imgur.com/4dErJ0j.png"
+loading="lazy"
+>&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://i.imgur.com/AIQvd9q.png" target="_blank" rel="noopener"
+>&lt;img src="https://i.imgur.com/AIQvd9q.png"
+loading="lazy"
+>&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/8BFYZOa.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>We @ Tastytrade Sell OTM Call Option.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/FDIAThm.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="put-option">Put Option
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/IAXjQ3s.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/xAYmPkJ.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/7DqCUsK.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/XBgr5CK.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="intrinsic--extrinsic-value">Intrinsic &amp;amp; Extrinsic value
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/FpwLx39.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/OKty5ht.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="premium-charges">Premium Charges
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/frxFUFB.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/y923VzB.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/cJkD1tq.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="3-most-important-things-you-should-know-as-option-beginner">3 Most Important Things You Should Know as Option Beginner
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/cgmtByz.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/ifLGCyo.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/Z2p9P9H.png"
+loading="lazy"
+>&lt;/p>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔🍒TastyTrade
+📚Reference : &lt;em>Mike &amp;amp; His Whiteboard Playlist Options Tasty Trade Youtube Channel.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>📅 Thursday, March 10, 2022 (04:26 PM) - &lt;em>Created&lt;/em>&lt;/p></description></item></channel></rss>

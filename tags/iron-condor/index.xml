@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Iron-Condor🦅 on OptionsMaddy</title><link>https://www.optionsmaddy.github.io/tags/iron-condor/</link><description>Recent content in Iron-Condor🦅 on OptionsMaddy</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Feb 2023 20:43:33 +0530</lastBuildDate><atom:link href="https://www.optionsmaddy.github.io/tags/iron-condor/index.xml" rel="self" type="application/rss+xml"/><item><title>IRON CONDOR ANALYSIS</title><link>https://www.optionsmaddy.github.io/p/iron-condor-analysis/</link><pubDate>Sun, 26 Feb 2023 20:43:33 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/iron-condor-analysis/</guid><description>&lt;h2 id="criteria">Criteria
+&lt;/h2>&lt;ul>
+&lt;li>Captured on 24th February (Friday Post Market)&lt;/li>
+&lt;li>Chosen strike = (Nifty Spot + Nifty Future)/2&lt;/li>
+&lt;li>Trade : 200 pts PE Sell + 200 pts CE Sell&lt;/li>
+&lt;li>Hedge : 400 pts PE Sell + 400 pts CE Sell&lt;/li>
+&lt;/ul>
+&lt;h2 id="strikes">Strikes
+&lt;/h2>&lt;ul>
+&lt;li>&lt;img src="https://i.imgur.com/hdMSrWD.png"
+loading="lazy"
+>&lt;/li>
+&lt;li>Here Strike Chosen is “17500”.&lt;/li>
+&lt;li>Trade : 17300 PE &amp;amp; 17700 CE.&lt;/li>
+&lt;li>Hedge : 17100 PE &amp;amp; 17900 CE.&lt;/li>
+&lt;/ul>
+&lt;h3 id="02-mar-expiry---6-days-to-expiry">02 Mar Expiry - 6 Days to Expiry
+&lt;/h3>&lt;ul>
+&lt;li>POP : 60%&lt;/li>
+&lt;li>Ratio
+&lt;ul>
+&lt;li>3.3 : 1&lt;/li>
+&lt;li>-7742 : +2258&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Breakeven : 17255 - 17745&lt;/li>
+&lt;li>Margin Required : 50,000/-&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/ajsXNQg.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="09-mar-expiry---12-days-to-expiry">09 Mar Expiry - 12 Days to Expiry
+&lt;/h3>&lt;ul>
+&lt;li>POP : 51%&lt;/li>
+&lt;li>Ratio
+&lt;ul>
+&lt;li>1.4 : 1&lt;/li>
+&lt;li>-5848 : +4152&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Breakeven : 17217 - 17783&lt;/li>
+&lt;li>Margin Required : 49,000/-&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/3zeOiZ6.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="16-mar-expiry---19-days-to-expiry">16 Mar Expiry - 19 Days to Expiry
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>&lt;em>Hedge Chosen 100 points less as there was not liquidity.&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>POP : 46%&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ratio&lt;/p>
+&lt;ul>
+&lt;li>1.38 : 1&lt;/li>
+&lt;li>-8742 : +6258&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Breakeven : 17175 - 17825&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Margin Required : 54,617/-&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/2OIozYV.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="23-mar-expiry---26-days-to-expiry">23 Mar Expiry - 26 Days to Expiry
+&lt;/h3>&lt;ul>
+&lt;li>POP : 40%&lt;/li>
+&lt;li>Ratio
+&lt;ul>
+&lt;li>0.76 : 1&lt;/li>
+&lt;li>&lt;strong>-4322 : +5678&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Breakeven : 17187 - 17813&lt;/li>
+&lt;li>Margin Required : 55,793/-&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/OYsITmS.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="30-mar-expiry---33-days-to-expiry">30 Mar Expiry - 33 Days to Expiry
+&lt;/h3>&lt;ul>
+&lt;li>POP : 38%&lt;/li>
+&lt;li>Ratio
+&lt;ul>
+&lt;li>0.57 : 1&lt;/li>
+&lt;li>**-3638 : +6362&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Breakeven : 17173 - 17827&lt;/li>
+&lt;li>Margin Required : 47,647/-&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/VtQQMh7.png"
+loading="lazy"
+>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Week&lt;/th>
+&lt;th>Expiry&lt;/th>
+&lt;th>POP&lt;/th>
+&lt;th>Risk:1&lt;/th>
+&lt;th>Profit&lt;/th>
+&lt;th>Loss&lt;/th>
+&lt;th>Margin Req&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>02 Mar&lt;/td>
+&lt;td>60%&lt;/td>
+&lt;td>3.3&lt;/td>
+&lt;td>+2258&lt;/td>
+&lt;td>-7742&lt;/td>
+&lt;td>49,680&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>09 Mar&lt;/td>
+&lt;td>51%&lt;/td>
+&lt;td>1.4&lt;/td>
+&lt;td>+4152&lt;/td>
+&lt;td>-5848&lt;/td>
+&lt;td>48,730&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3*&lt;/td>
+&lt;td>16 Mar&lt;/td>
+&lt;td>45%&lt;/td>
+&lt;td>1.38&lt;/td>
+&lt;td>+6258&lt;/td>
+&lt;td>-8742&lt;/td>
+&lt;td>54,617&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>23 Mar&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>0.76&lt;/td>
+&lt;td>+5678&lt;/td>
+&lt;td>-4322&lt;/td>
+&lt;td>55,793&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>30 Mar&lt;/td>
+&lt;td>38%&lt;/td>
+&lt;td>0.57&lt;/td>
+&lt;td>+6362&lt;/td>
+&lt;td>-3638&lt;/td>
+&lt;td>47,647&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Call Condors vs Put Condors vs Iron Condors</title><link>https://www.optionsmaddy.github.io/p/call-condors-vs-put-condors-vs-iron-condors/</link><pubDate>Wed, 22 Feb 2023 08:55:42 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/call-condors-vs-put-condors-vs-iron-condors/</guid><description>&lt;h2 id="comparison-between-call-condors-vs-put-condors-vs-iron-condors">Comparison between “Call Condors” vs “Put Condors” vs “Iron Condors”
+&lt;/h2>&lt;h3 id="call-condor">Call Condor
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/CWwxKHf.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Watch under Net strategy block in the screenshot “Net Premium Pay” is given in both call condor &amp;amp; put condor, whereas in the Iron condor “Net Premium Get” is written.&lt;/strong>&lt;/em>&lt;/p>
+&lt;h4 id="tamil-adjustment-trader-on-call-condor">Tamil Adjustment Trader on Call Condor
+&lt;/h4>&lt;ul>
+&lt;li>If you are option buyer instead of Naked selling, you should only sell Debit Spread.&lt;/li>
+&lt;li>Option seller prefer credit spreads.&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;p style="text-align:center"> &lt;iframe width="675" height="225" src="https://www.youtube.com/embed/cjtPcwtADac?disablekb=0&amp;enablejsapi=1&amp;modestbranding=1&amp;start=200" title="YouTube video player" frameborder="0" color="white" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe> &lt;/p>
+&lt;h3 id="iron-condor">Iron Condor
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/Slw366f.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="put-condor">Put Condor
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/uQf5Dj1.png"
+loading="lazy"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>[!INFO]+ ### ANALYSIS of Call Condor&lt;/p>
+&lt;ul>
+&lt;li>Seems similar.&lt;/li>
+&lt;li>Call Condor seems to be slightly good for a falling market.&lt;/li>
+&lt;li>Debit spread due to “in the money”.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://i.imgur.com/4fmTJni.png"
+loading="lazy"
+>&lt;/p>
+&lt;/blockquote></description></item><item><title>Iron Condor 🦅</title><link>https://www.optionsmaddy.github.io/p/iron-condor/</link><pubDate>Mon, 31 Oct 2022 20:31:00 +0530</pubDate><guid>https://www.optionsmaddy.github.io/p/iron-condor/</guid><description>&lt;h1 id="iron-condor-">Iron Condor 🦅
+&lt;/h1>&lt;ul>
+&lt;li>&amp;ldquo;Cheap&amp;rdquo;, &amp;ldquo;Risk Capped&amp;rdquo;, &amp;ldquo;Safe Neutral Strategy&amp;rdquo; for either Range bound market or Volatile market.&lt;/li>
+&lt;/ul>
+&lt;h2 id="features-">Features 🌈
+&lt;/h2>&lt;ul>
+&lt;li>Cheap&lt;/li>
+&lt;li>Risk Capped on both sides.&lt;/li>
+&lt;li>Awkward to adjust.&lt;/li>
+&lt;li>Aka &amp;ldquo;Credit Spread&amp;rdquo;.&lt;/li>
+&lt;li>Combination of &amp;ldquo;Credit Put Spread&amp;rdquo; + &amp;ldquo;Credit Call Spread&amp;rdquo;
+&lt;ul>
+&lt;li>Short Iron Condor - Profit if Range Bound.&lt;/li>
+&lt;li>Long Iron Condor - Profit if Volatile.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Delta Neutral&lt;/li>
+&lt;li>Only One side is tested, Other side is not tested. Hence we can do adjustment on only one side.&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="conditions-">Conditions ☝🏼
+&lt;/h2>&lt;p>Do Iron Condor IF&lt;/p>
+&lt;ol>
+&lt;li>IV &amp;gt; HV&lt;/li>
+&lt;li>30+ IV Rank&lt;/li>
+&lt;li>Bearish Volatility&lt;/li>
+&lt;li>For any IV or Falling IV&lt;/li>
+&lt;li>For Weekly or Monthly Expiry. ( 60 Days )&lt;/li>
+&lt;li>Checkout [[9 Rules of Options - Sourabh Gandhi]]&lt;/li>
+&lt;/ol>
+&lt;h2 id="remember-">Remember 🤔
+&lt;/h2>&lt;ol>
+&lt;li>Medium Margin/Capital Requirement&lt;/li>
+&lt;li>Medium Risk&lt;/li>
+&lt;li>High Leverage&lt;/li>
+&lt;li>Capped Risk&lt;/li>
+&lt;li>Non Directional&lt;/li>
+&lt;li>Probability of Profit around 60%.&lt;/li>
+&lt;li>Check for liquidity.&lt;/li>
+&lt;/ol>
+&lt;h2 id="step-by-step-placement-of-order-">Step by Step Placement of Order 🪜
+&lt;/h2>&lt;ol>
+&lt;li>Select Strike Price as per Spot Nifty. ( 100 Pts Rule)
+&lt;ol>
+&lt;li>Note Down Current Strike Price.&lt;/li>
+&lt;li>Note Down X &amp;amp; Y
+&lt;ul>
+&lt;li>X = Price/Lot of Current Strike Price - 100 PE&lt;/li>
+&lt;li>Y = Price/Lot of Current Strike Price + 100 CE&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>X + Y = Z, Round Off Z.&lt;/li>
+&lt;li>Consider Z as Pts.
+&lt;ul>
+&lt;li>Subtract Z from PE&lt;/li>
+&lt;li>Add Z to CE&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Note down 4 Orders &amp;amp; Price.
+&lt;ul>
+&lt;li>&lt;img src="https://i.imgur.com/D4F4b2Q.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Make Scenario to know Risk Reward.
+&lt;ul>
+&lt;li>&lt;img src="https://i.imgur.com/DA48rEb.png"
+loading="lazy"
+>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Create Basket in Zerodha Kite
+&lt;ul>
+&lt;li>Note Down Margin.&lt;/li>
+&lt;li>Make sure Atlest 5% more than margin money available.&lt;/li>
+&lt;li>Note Down ( Expected Profit to exit) 4% * Margin to 5% * Margin.&lt;/li>
+&lt;li>Execute later.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Trade Execution&lt;/li>
+&lt;li>Book Profit ( Conservative Basis )
+&lt;ul>
+&lt;li>Important &amp;amp; Difficult&lt;/li>
+&lt;li>Don&amp;rsquo;t Wait for Maximum profit.&lt;/li>
+&lt;li>4% to 5% weekly profit wrt Margin Deployed.&lt;/li>
+&lt;li>Square off 4 trades simultaneously.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="suggestions-">Suggestions 🧙🏼‍♂️
+&lt;/h2>&lt;ul>
+&lt;li>Monthly Iron condor is better than weekly Iron Condor position as the T+0 line is less steeper.&lt;/li>
+&lt;li>T+0 less steeper, better position.&lt;/li>
+&lt;li>T+0 line, dotted line, How position will behave today.&lt;/li>
+&lt;li>Other line, how it will perform expiry.&lt;/li>
+&lt;li>Monthly Iron Condor &amp;lt; Weekly Iron Condor&lt;/li>
+&lt;li>Weekly have lot more negative gamma than monthly IC.&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-to-take-monthly-ic-position-using-delta">How to take Monthly IC position using delta
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/SVLewUo.png"
+loading="lazy"
+>&lt;/p>
+&lt;ol>
+&lt;li>Check Greeks on each Strike Price.&lt;/li>
+&lt;li>Positive delta value for call option.&lt;/li>
+&lt;li>Now determined Call Option, take other 3 positions.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://i.imgur.com/tpFQ2T8.png"
+loading="lazy"
+>&lt;/p>
+&lt;h4 id="eg-calculations">eg: Calculations
+&lt;/h4>&lt;p>&lt;a class="link" href="https://i.imgur.com/QGgfmpF.png" target="_blank" rel="noopener"
+>&lt;img src="https://i.imgur.com/QGgfmpFm.png"
+loading="lazy"
+>&lt;/a>&lt;/p>
+&lt;h4 id="eg-chart">eg: Chart
+&lt;/h4>&lt;p>&lt;a class="link" href="https://i.imgur.com/SJlB0dG.png" target="_blank" rel="noopener"
+>&lt;img src="https://i.imgur.com/SJlB0dGm.png"
+loading="lazy"
+>&lt;/a>&lt;/p>
+&lt;h2 id="diagram-">Diagram 📈
+&lt;/h2>&lt;p>&lt;img src="https://i.imgur.com/eTsyDM1.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/uHBsEFP.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/k2HqgxN.png"
+loading="lazy"
+>&lt;/p>
+&lt;h2 id="adjustment">Adjustment
+&lt;/h2>&lt;h3 id="adjustment-01">Adjustment 01
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/thdjbfw.png"
+loading="lazy"
+>&lt;/p>
+&lt;h3 id="adjustment-02">Adjustment 02
+&lt;/h3>&lt;ul>
+&lt;li>Convert Iron Condor to Iron Butterfly.
+&lt;ul>
+&lt;li>Leave one Loss making sell order. Square off the rest for profit.&lt;/li>
+&lt;li>Then make an Iron Butterfly. Remember you are already in profit.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="iron-condor-backtest">Iron Condor Backtest
+&lt;/h3>&lt;p>&lt;img src="https://i.imgur.com/G5rcLDI.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/n6qXwCc.png"
+loading="lazy"
+>&lt;/p>
+&lt;ul>
+&lt;li>Gave around 38% for jun to sep 2022.&lt;/li>
+&lt;li>Gave around 35% for jan to mar 2022.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>🏷️Tags : #Investments💷/Options-Trading🎛️
+📚Reference :&lt;/p>
+&lt;iframe width="250" height="150" src="https://www.youtube.com/embed/mkSuGYcd7is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe></description></item></channel></rss>
