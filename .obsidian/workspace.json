@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f7db1cd0b2892b3",
+            "id": "b7972719a47b1b58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/theta/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/theta/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/theta/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/theta/index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,17 +147,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3f7db1cd0b2892b3",
+  "active": "b7972719a47b1b58",
   "lastOpenFiles": [
+    "content/post/Created New Notion Database for PnL Entry/cover.jpg",
+    "static/covers/cover 1.jpg",
+    "content/post/+5653 Profit 21-March-2024/cover.jpg",
+    "content/post/+14,002 Profit 16-July-2024/cover.jpg",
+    "static/covers/cover_surreal03.jpg",
+    "static/covers/cover_surreal02.jpg",
+    "content/post/+14,002 Profit 16-July-2024/index.md",
+    "content/post/Created New Notion Database for PnL Entry/index.md",
+    "content/post/+14,002 Profit 16-July-2024",
     "content/post/theta/cover.jpg",
+    "static/covers/cover_trade.png",
+    "static/covers/cover_wave.jpg",
     "content/post/theta/index.md",
+    "content/post/Created New Notion Database for PnL Entry",
     "content/post/old_posts/theta.md",
     "content/post/old_posts/trade-index-options-over-stock-options.md",
     "content/post/theta",
     "content/post/old_posts/options-strategies-trade-book-diagrams-(simple-option-strategies-book).md",
     "content/post/Change in Strategy/index.md",
     "content/post/Change in Strategy/cover.jpg",
-    "content/post/+5653 Profit 21-March-2024/cover.jpg",
     "config/_default/config.toml",
     "content/post/Change in Strategy",
     "nojekyll.md",
@@ -178,13 +181,7 @@
     "content/post/old_posts/zero-sum-game.md",
     "content/post/+5653 Profit 21-March-2024/index.md",
     "content/categories/example-category/_index.md",
-    "static/covers/cover_trade.png",
     "static/covers/cover_tech.jpg",
-    "static/covers/cover_wave.jpg",
-    "static/covers/cover_vr.jpg",
-    "static/covers/cover.jpg",
-    "static/covers/cover_white.jpg",
-    "static/covers/cover_surreal11.jpg",
     "config/_default/params.toml",
     "content/post/+5653 Profit 21-March-2024",
     "README.md",
@@ -196,11 +193,7 @@
     "content/post/hello-world/index.md",
     "config/_default/permalinks.toml",
     "config/_default/related.toml",
-    "config/_default/markup.toml",
-    "config/_default/menu.toml",
     "content/post/old_posts/2023-04 Month End April Profit and Loss.md",
-    "content/post/old_posts/4-things-to-check-before-option-selling.md",
-    "content/post/old_posts/2023-06-14  Closed Positions Profit Realized +16,497.md",
-    "content/post/old_posts/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md"
+    "content/post/old_posts/4-things-to-check-before-option-selling.md"
   ]
 }
